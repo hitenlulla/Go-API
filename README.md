@@ -3,3 +3,6 @@
 > go mod init
 
 > go mod tidy
+
+## Install Gin
+> go get github.com/gin-gonic/gin
